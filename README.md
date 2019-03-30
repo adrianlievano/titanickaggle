@@ -21,7 +21,7 @@ pip install scikit-learn
 If you'd like to contribute, please do! I'm specifically looking for novel, simpler implementations of supervised machine learning solutions; I'm also curious to try different data preprocessing steps to measure it's impact on test set accuracy.
 
 ## License ##
-
+This project is covered under the <a href='https://github.com/adrianlievano/titanickaggle/blob/master/LICENSE'>MIT License.</a> 
 
 
 
